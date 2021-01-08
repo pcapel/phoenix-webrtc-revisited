@@ -1,3 +1,6 @@
+# This repository is archived
+I don't intend to keep up with updates or dependencies in this as it is meant as a learning example for WebRTC.
+
 # PhoenixWebrtcRevisited
 
 To start your Phoenix server:
